@@ -1,8 +1,8 @@
 {
-  "version": "0.9.15",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.15.zip",
-  "sha256": "c8128d78657f7638ac1b7567c0cbbb713382344ef06b5b82378661acac99fee1",
-  "sig": "FTncUV_wNVxtRf-jfOeS5uHHLaaQi3KOLIWUym8D_nFiiDvuoAyHfy8EIYIIpMnbP8FF0bpurAgz_9L77xchCA",
-  "notes": "Подсказка «как добавить товар в предзаказ», порядок в Карточках и Предзаказе, итог проверки WB, все категории WB",
+  "version": "0.9.16",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.16.zip",
+  "sha256": "92f8d4a357822d268788536b5aafe8507df5fe3ad7d3b924a660210a728d252c",
+  "sig": "nrzp4MmGv48UrtATE2dsRkfeDqkNzbg7tckE08Lv81Z3VVKs9t_DM1IAA9SzGOTXUycaqiLR05B5pDBeMrppBg",
+  "notes": "Защита: после пробного периода закрыты поиск, карточки, предзаказ, цены; открыты заказы и накладные. Подсказка про предзаказ, порядок в Карточках, все категории WB",
   "blocked": []
 }
