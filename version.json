@@ -1,8 +1,8 @@
 {
-  "version": "0.6",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.6.zip",
-  "sha256": "0675674d9c8e52b5b331338830ca322f40e17dbe1c9cdc62d20817a3ba04798f",
-  "sig": "LG2TDHP8TNIrqKGFJw67wcrZqSV7_YuKp-qoSpSYOZ4VxoIKFX8EQfdtqzuhXq6WWJ6aiokAWkR1RtvtIg1OCA",
-  "notes": "Самопроверка программы",
+  "version": "0.9.11",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.11.zip",
+  "sha256": "256e2b4ef66fbe07a24080b17dd51357687ce9093faa726c75acfe007a83118a",
+  "sig": "y1J-XxEdGgKzfKzXAbrVsCHEJZurtO1NjyucqABDRuCYw0LoSHqoQvTaAdWnkMEZ1kyDKzxxhkz3uuH_GKqsDw",
+  "notes": "Калькулятор маржи, накладные как в Kaspi Pay, автоввод кода из почты, шаг «Прайс-лист» в мастере, исправления",
   "blocked": []
 }
