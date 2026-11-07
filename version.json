@@ -1,8 +1,8 @@
 {
-  "version": "0.9.18",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.18.zip",
-  "sha256": "288b1be4ebf891d0e36b8f8326ccd2d8aefcc23a7ed16c62ca55da945bd9a308",
-  "sig": "mIDsjEgvg4hjkKNzBtkWV7G1oRON9OUFnsdejYd7c8vl7VA5kCD9MNikPsmNekcPQaxa1qTPjNR8hR7gGDLLAA",
-  "notes": "Защита программы от обращений с чужих сайтов",
+  "version": "0.9.19",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.19.zip",
+  "sha256": "1820d88a197844bef3dd4c61754003b4220dbe2e7be82d48f12042b9d31cf014",
+  "sig": "1mnQESC2towWLGGHcJhM7ROiQOnJRIHPs6yj4rF3Mica_G1WVJt03f4WztDtC35nfjQ3yc8D3FR0VUri2tmCDA",
+  "notes": "Пароли и токены в защищённом хранилище, кнопка удаления данных",
   "blocked": []
 }
