@@ -1,8 +1,8 @@
 {
-  "version": "0.9.13",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.13.zip",
-  "sha256": "5ba8c9f7c979881c0c8349088cb226d6e0a069ca245daf02bd29eb49b76b6ea2",
-  "sig": "CtDQJKGfo9XMg6CkeD2r7GKj0SKVQKuK9-WyVBz2C9Nb1lNXfupa8wVmwfReNwQyySV8W7gmorMa9FxjtdYUDQ",
-  "notes": "Исправлен выбор подкатегорий в поиске, все категории Wildberries, автоввод кода из почты, калькулятор маржи",
+  "version": "0.9.14",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.14.zip",
+  "sha256": "39bafa6507e9c0388548c7c031832d71e51e14bf9c031237981eefa0bcba374d",
+  "sig": "1HSopeQ_rkIcCbT1vknl-olpaYOtvouf173Zb8HcX2yEhu8cYcSbIdXTuabrDjJ22Pd28BxOpKt_-9tHcQu4Ag",
+  "notes": "Порядок в разделах «Карточки Kaspi из WB» и «Предзаказ карточек», итог проверки WB, все категории WB, исправления",
   "blocked": []
 }
