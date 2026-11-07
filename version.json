@@ -1,8 +1,8 @@
 {
-  "version": "0.9.20",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.20.zip",
-  "sha256": "ead01e354204684a6377ff5d424b0464b62095f51316e00ea3af68aa608a6d59",
-  "sig": "SBtaWZTDM9JzP_jVcRNsKOOkZhxmB5H0ZaJoOTuxc7U_cLc2Jp5XoglPwJGQ5tne4BLRFq2PaMH2lKU1g3RwAQ",
-  "notes": "Кнопка Создать карточку в поиске товаров",
+  "version": "0.9.21",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.21.zip",
+  "sha256": "d1ac9347e5a35f5d9954bd205f343dd42e3a7a3fdab224a0f739a94515029128",
+  "sig": "d0acwS4aRm9o2FXqcCHDCDomIqWu7Cs7Gkdn0852s5UctPoFDaIEMOqDV0jil4RG0GLYpnbRubPHzh46PCWLBA",
+  "notes": "Учёт клиентов и пробный период по магазину (спящий код), мелкие правки",
   "blocked": []
 }
