@@ -1,8 +1,8 @@
 {
-  "version": "0.9.14",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.14.zip",
-  "sha256": "39bafa6507e9c0388548c7c031832d71e51e14bf9c031237981eefa0bcba374d",
-  "sig": "1HSopeQ_rkIcCbT1vknl-olpaYOtvouf173Zb8HcX2yEhu8cYcSbIdXTuabrDjJ22Pd28BxOpKt_-9tHcQu4Ag",
-  "notes": "Порядок в разделах «Карточки Kaspi из WB» и «Предзаказ карточек», итог проверки WB, все категории WB, исправления",
+  "version": "0.9.15",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.15.zip",
+  "sha256": "c8128d78657f7638ac1b7567c0cbbb713382344ef06b5b82378661acac99fee1",
+  "sig": "FTncUV_wNVxtRf-jfOeS5uHHLaaQi3KOLIWUym8D_nFiiDvuoAyHfy8EIYIIpMnbP8FF0bpurAgz_9L77xchCA",
+  "notes": "Подсказка «как добавить товар в предзаказ», порядок в Карточках и Предзаказе, итог проверки WB, все категории WB",
   "blocked": []
 }
