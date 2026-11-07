@@ -1,8 +1,8 @@
 {
-  "version": "0.9.16",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.16.zip",
-  "sha256": "92f8d4a357822d268788536b5aafe8507df5fe3ad7d3b924a660210a728d252c",
-  "sig": "nrzp4MmGv48UrtATE2dsRkfeDqkNzbg7tckE08Lv81Z3VVKs9t_DM1IAA9SzGOTXUycaqiLR05B5pDBeMrppBg",
-  "notes": "Защита: после пробного периода закрыты поиск, карточки, предзаказ, цены; открыты заказы и накладные. Подсказка про предзаказ, порядок в Карточках, все категории WB",
+  "version": "0.9.17",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.17.zip",
+  "sha256": "b6f0d966e085c7218671374dfb05bc7d2336f8012aa4a9e0a946c01b504e957d",
+  "sig": "ZCb4c7JOTEPYHcn5uZkN0bx02EfIAXgI1x8Eb6d8Ksw-ByljHZf2wJJAaVZfxt-433UgPTsUBpWWBMVtWhg5Bw",
+  "notes": "После пробного периода продолжает работать защита (снятие с продажи товара, которого нет на WB); закрытие функций без лицензии; подсказки и порядок в разделах",
   "blocked": []
 }
