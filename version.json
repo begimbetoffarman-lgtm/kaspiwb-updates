@@ -1,8 +1,8 @@
 {
-  "version": "0.9.12",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.12.zip",
-  "sha256": "7c4a2246b42e1fff355a3598c2f7a0f17c27ab93879634d65ab0a5213591b6d3",
-  "sig": "GKk9k-igcRPWTF3cTAIhY2g3UceVM_6f6RxJokE5g296hpa1x-tQVURPfrekGsnliI0qSepU0ctfil0t9k7yCw",
-  "notes": "Все категории Wildberries в поиске товаров, шаг «Прайс-лист», автоввод кода из почты, калькулятор маржи",
+  "version": "0.9.13",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.13.zip",
+  "sha256": "5ba8c9f7c979881c0c8349088cb226d6e0a069ca245daf02bd29eb49b76b6ea2",
+  "sig": "CtDQJKGfo9XMg6CkeD2r7GKj0SKVQKuK9-WyVBz2C9Nb1lNXfupa8wVmwfReNwQyySV8W7gmorMa9FxjtdYUDQ",
+  "notes": "Исправлен выбор подкатегорий в поиске, все категории Wildberries, автоввод кода из почты, калькулятор маржи",
   "blocked": []
 }
