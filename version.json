@@ -1,8 +1,8 @@
 {
-  "version": "0.9.24",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.24.zip",
-  "sha256": "ecd13dc0f0defa7c6d8d426b1eb2655c4c528542ad89c004a093506a5b0b4b50",
-  "sig": "g7sIZ8CFTHhnXlkboHtuelZ9IxhBcB8B7amGqSumOSj3QNy_2hpDhB6SV8HX5hMUFIJPqctyTbC4uhKKf51GCQ",
-  "notes": "Исправлено: пометка Цена устарела, точнее кнопка Проверить",
+  "version": "0.9.25",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.25.zip",
+  "sha256": "64e412e43afba674da9bdfe1a74110ae11ebc3513b8f3e12b45a507c0a41cc93",
+  "sig": "jFme5r_bcFjpxQ93fzYNiPaa7v5JcXlq_nbgwWs0k4c0UI9IjOZNx722kzybXUanSZv_a7Sz-TkSsvWmXXwJAw",
+  "notes": "Проверка Kaspi сравнивает фото товара с карточками Kaspi",
   "blocked": []
 }
