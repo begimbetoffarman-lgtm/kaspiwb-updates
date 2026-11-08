@@ -1,8 +1,8 @@
 {
-  "version": "0.9.23",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.23.zip",
-  "sha256": "153fceb9e18c4af31737339a40eb510e9bf235c0d4f1f4865c570735d24e9ff4",
-  "sig": "2OF11_HtdIWnckA93X6Ps3UzOI2M-osV0DCP1ghjk1IO8WbHJM8BmPKmmuV6MO3j8SMD_O-BNattIBXHzAweAw",
-  "notes": "Мой магазин: топ-5 продавцов в карточке, мин. и макс. цена для демпинга, поиск карточки по артикулу",
+  "version": "0.9.24",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.24.zip",
+  "sha256": "ecd13dc0f0defa7c6d8d426b1eb2655c4c528542ad89c004a093506a5b0b4b50",
+  "sig": "g7sIZ8CFTHhnXlkboHtuelZ9IxhBcB8B7amGqSumOSj3QNy_2hpDhB6SV8HX5hMUFIJPqctyTbC4uhKKf51GCQ",
+  "notes": "Исправлено: пометка Цена устарела, точнее кнопка Проверить",
   "blocked": []
 }
