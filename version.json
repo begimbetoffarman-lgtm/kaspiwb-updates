@@ -1,8 +1,8 @@
 {
-  "version": "0.9.30",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.30.zip",
-  "sha256": "d255edee1097839d07ca0ef8f1f9d63821aca42ed060a940012b57993be0d9b5",
-  "sig": "8feBTl7fbod0-6agTjrgNG_mbv1zY_EnU0Ybvei1jgG9xdIp6-mJHWRtGJ3xNdW8t_20GXdH1AeLmvGa5zMcCQ",
-  "notes": "Поиск 1688 и Ozon, загрузка цветов и комплектаций, отдельные черновики Kaspi для всех вариантов, расчёт карго по весу и объёму. В поиске WB: кнопки поиска поставщиков по фото и поиска в интернете. Пошаговая помощь и подсказки. Фотопоиск 1688 пока тестовый: выдача зависит от сайта. Перевод текстов пока ручной. После установки перезапустите программу.",
+  "version": "0.9.31",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.31.zip",
+  "sha256": "04753fae4f9ed4e3b0699e010b983fdb52f435e383bc0f6fe2ca487fec4b616d",
+  "sig": "8ZTSuP69ikL1Qfa1NLahirxTNz4YJTV39dnex0KI93hv9kdhQGHxfbVyE3GmcudcpVUa6wvC__Y_Ue5IbCqwDg",
+  "notes": "Отдельные разделы 1688 и Ozon, категории, варианты, сроки и поиск 1688 по фото в WB",
   "blocked": []
 }
