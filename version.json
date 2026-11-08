@@ -1,8 +1,8 @@
 {
-  "version": "0.9.29",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.29.zip",
-  "sha256": "864c683a76f867e478442d040d6d24fe73803f9b6598f4fbc3783c93530aa827",
-  "sig": "iqkhlaxvtY7yUFfhaBUQR1O_cU7efl_ywTvQvwfanCONhpQS6DUNsS-kXayxBxTBlv5MxJdlOjUs-rf7NKGgBw",
-  "notes": "Окно оплаты: Kaspi QR и кнопка Я оплатил",
+  "version": "0.9.30",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.30.zip",
+  "sha256": "d255edee1097839d07ca0ef8f1f9d63821aca42ed060a940012b57993be0d9b5",
+  "sig": "8feBTl7fbod0-6agTjrgNG_mbv1zY_EnU0Ybvei1jgG9xdIp6-mJHWRtGJ3xNdW8t_20GXdH1AeLmvGa5zMcCQ",
+  "notes": "Поиск 1688 и Ozon, загрузка цветов и комплектаций, отдельные черновики Kaspi для всех вариантов, расчёт карго по весу и объёму. В поиске WB: кнопки поиска поставщиков по фото и поиска в интернете. Пошаговая помощь и подсказки. Фотопоиск 1688 пока тестовый: выдача зависит от сайта. Перевод текстов пока ручной. После установки перезапустите программу.",
   "blocked": []
 }
