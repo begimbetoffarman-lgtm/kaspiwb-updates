@@ -1,8 +1,8 @@
 {
-  "version": "0.9.21",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.21.zip",
-  "sha256": "d1ac9347e5a35f5d9954bd205f343dd42e3a7a3fdab224a0f739a94515029128",
-  "sig": "d0acwS4aRm9o2FXqcCHDCDomIqWu7Cs7Gkdn0852s5UctPoFDaIEMOqDV0jil4RG0GLYpnbRubPHzh46PCWLBA",
-  "notes": "Учёт клиентов и пробный период по магазину (спящий код), мелкие правки",
+  "version": "0.9.22",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.22.zip",
+  "sha256": "a53c89f208ef034227895654faec588ae4bfbeb07e811ad96bca2b9a0c8b41bf",
+  "sig": "wNOG7qi8m08prYGZHIhUOcG2ef6bpAZNvmQYYSFnmZBm8uYXLC6LBYV-Pwj2RWjk_0Hvn1RdwpjxhUFWQtBEBA",
+  "notes": "Тёмная тема: переключатель День / Ночь; порядок и подсказки, защита, учёт клиентов",
   "blocked": []
 }
