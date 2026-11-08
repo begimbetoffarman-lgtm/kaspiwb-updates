@@ -1,8 +1,8 @@
 {
-  "version": "0.9.27",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.27.zip",
-  "sha256": "9f2f34ccd12c3c21031ea60226ecd1c7956c849bb489f4ea1f77d5d9c86a3708",
-  "sig": "T2Bhb-Z8ZC3A4PpaRucwvZCj1Un7V1wDoWw3NJRLPXor0TVkDz52h2j8RHSbXdt7nvy9RRxNikUcyxhUjlHYDA",
-  "notes": "Учёт клиентов и пробный период по магазину включены",
+  "version": "0.9.28",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.28.zip",
+  "sha256": "2d72a2242738c383c6240aed122ccf071f6b6199cb20179a2f8646e1e491ff59",
+  "sig": "WqUTNHXOp2AknWxDwmBK8xtqaGwTSSWSYqgrBlggjwLScMtfv74BcYnhMZCYYKNAMMTsNLcrBpv8xbu6_CqzBg",
+  "notes": "Клиенты в таблице заполняются сами, цена 9 900 в оферте",
   "blocked": []
 }
