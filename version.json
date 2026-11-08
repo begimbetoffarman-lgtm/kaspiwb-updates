@@ -1,8 +1,8 @@
 {
-  "version": "0.9.25",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.25.zip",
-  "sha256": "64e412e43afba674da9bdfe1a74110ae11ebc3513b8f3e12b45a507c0a41cc93",
-  "sig": "jFme5r_bcFjpxQ93fzYNiPaa7v5JcXlq_nbgwWs0k4c0UI9IjOZNx722kzybXUanSZv_a7Sz-TkSsvWmXXwJAw",
-  "notes": "Проверка Kaspi сравнивает фото товара с карточками Kaspi",
+  "version": "0.9.26",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.26.zip",
+  "sha256": "d5b307484ebefab44b855540e032b7b73d04614d8eb3f1d6db54e77da9792301",
+  "sig": "cBP61NqVdoNjy7-IIf2IuFvnY02v3furNqQD2xZTkUpKdagTOQOUuZQpHatz1IJCUnLu02b9UGioA1EIuQAOAQ",
+  "notes": "Сохранение пароля почты, полоса Перезапустите программу после обновления",
   "blocked": []
 }
