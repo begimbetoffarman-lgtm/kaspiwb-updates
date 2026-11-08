@@ -1,8 +1,8 @@
 {
-  "version": "0.9.28",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.28.zip",
-  "sha256": "2d72a2242738c383c6240aed122ccf071f6b6199cb20179a2f8646e1e491ff59",
-  "sig": "WqUTNHXOp2AknWxDwmBK8xtqaGwTSSWSYqgrBlggjwLScMtfv74BcYnhMZCYYKNAMMTsNLcrBpv8xbu6_CqzBg",
-  "notes": "Клиенты в таблице заполняются сами, цена 9 900 в оферте",
+  "version": "0.9.29",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.29.zip",
+  "sha256": "864c683a76f867e478442d040d6d24fe73803f9b6598f4fbc3783c93530aa827",
+  "sig": "iqkhlaxvtY7yUFfhaBUQR1O_cU7efl_ywTvQvwfanCONhpQS6DUNsS-kXayxBxTBlv5MxJdlOjUs-rf7NKGgBw",
+  "notes": "Окно оплаты: Kaspi QR и кнопка Я оплатил",
   "blocked": []
 }
