@@ -1,8 +1,8 @@
 {
-  "version": "0.9.22",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.22.zip",
-  "sha256": "a53c89f208ef034227895654faec588ae4bfbeb07e811ad96bca2b9a0c8b41bf",
-  "sig": "wNOG7qi8m08prYGZHIhUOcG2ef6bpAZNvmQYYSFnmZBm8uYXLC6LBYV-Pwj2RWjk_0Hvn1RdwpjxhUFWQtBEBA",
-  "notes": "Тёмная тема: переключатель День / Ночь; порядок и подсказки, защита, учёт клиентов",
+  "version": "0.9.23",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.23.zip",
+  "sha256": "153fceb9e18c4af31737339a40eb510e9bf235c0d4f1f4865c570735d24e9ff4",
+  "sig": "2OF11_HtdIWnckA93X6Ps3UzOI2M-osV0DCP1ghjk1IO8WbHJM8BmPKmmuV6MO3j8SMD_O-BNattIBXHzAweAw",
+  "notes": "Мой магазин: топ-5 продавцов в карточке, мин. и макс. цена для демпинга, поиск карточки по артикулу",
   "blocked": []
 }
