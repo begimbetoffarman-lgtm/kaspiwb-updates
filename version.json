@@ -1,8 +1,8 @@
 {
   "version": "0.9.36",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.36.zip",
-  "sha256": "869b08a7d960b8a42af481d9d1a771fe54073411924b0287317f7f016476502f",
-  "sig": "fVE0f-1wd50KBo30LXR0It7qAxxQ1NPI_EzxAG_KDyeYe9gBR7cNKa_SqFjwaMjD1hGZ67ClpxUuQlpTt-y-Ag",
-  "notes": "Накопительная база найденных товаров: новый раздел Найденное (WB, 1688, Ozon), выгрузка в CSV, радар больше не теряет товары ниже порога отзывов",
+  "url": "https://raw.githubusercontent.com/OWNER/REPO/main/update-0.9.36.zip",
+  "sha256": "702e3b2137fc4bbaedf9910065691b71e8fe4035d688e04ea327c7d9c07b27fc",
+  "sig": "Hx8jtKe-JhhLJDBY54cfSMtFomVdwp3V0DFOPP__aI6h6ElXdppzI6-vy1x3KFb-6nTd5TdH6cwbd_-3IpeHDA",
+  "notes": "Найденное (база): все находки WB, 1688 и Ozon теперь копятся, фильтры и выгрузка в CSV. Кнопка «Очистить базу». Инструкция обновлена.",
   "blocked": []
 }
