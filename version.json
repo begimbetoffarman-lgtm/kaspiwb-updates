@@ -1,8 +1,8 @@
 {
-  "version": "0.9.35",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.35.zip",
-  "sha256": "2321b471a03fd4bfd70977b4a401c0d97c7be84b88b51834aab9e5b04219d31b",
-  "sig": "kDSw5cg_43w-E90_xQZKwgk1AP8-qBUkhnuFT5nlplIWdr2t6pXea5O3CWT2Yi4HFVTlYeFXR0WNoaYLKyl8DA",
-  "notes": "Много исправлений надёжности и скорости: ошибки показываются понятным текстом вместо пустого экрана, устранены падения при неверных данных в полях; таблицы и карточки листаются быстрее; автосохранение черновиков; массовое изменение цен с предпросмотром; в радаре ВБ видно сумму к выплате и цветную маржу. Обновлена подробная инструкция с картинками оформления (ИНСТРУКЦИЯ.md и ИНСТРУКЦИЯ.pdf).",
+  "version": "0.9.36",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.36.zip",
+  "sha256": "869b08a7d960b8a42af481d9d1a771fe54073411924b0287317f7f016476502f",
+  "sig": "fVE0f-1wd50KBo30LXR0It7qAxxQ1NPI_EzxAG_KDyeYe9gBR7cNKa_SqFjwaMjD1hGZ67ClpxUuQlpTt-y-Ag",
+  "notes": "Накопительная база найденных товаров: новый раздел Найденное (WB, 1688, Ozon), выгрузка в CSV, радар больше не теряет товары ниже порога отзывов",
   "blocked": []
 }
