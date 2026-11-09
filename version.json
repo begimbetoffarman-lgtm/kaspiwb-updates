@@ -1,8 +1,8 @@
 {
-  "version": "0.9.31",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.31.zip",
-  "sha256": "04753fae4f9ed4e3b0699e010b983fdb52f435e383bc0f6fe2ca487fec4b616d",
-  "sig": "8ZTSuP69ikL1Qfa1NLahirxTNz4YJTV39dnex0KI93hv9kdhQGHxfbVyE3GmcudcpVUa6wvC__Y_Ue5IbCqwDg",
-  "notes": "Отдельные разделы 1688 и Ozon, категории, варианты, сроки и поиск 1688 по фото в WB",
+  "version": "0.9.33",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.33.zip",
+  "sha256": "96c84e493dc5e1dead85d67a710334169a7531f121ed188352c186228669bb76",
+  "sig": "Txme-JkUWrG6iVuDFgMOX-2Vm5q5uU5nSx6lV-FixAzJr3Lyhn5-y0nUbuB4PQf76S6zUoV89mAT2JA0tDzmBw",
+  "notes": "Обязательный вход в 1688 в разделе «Первый запуск» (один раз по QR-коду, дальше браузер помнит вход). Поиск 1688 и по фото стал понятнее: сообщение «нужен вход», если 1688 требует проверку. Загрузка своего прайс-листа теперь заменяет список: товары, которых нет в новом прайсе, уходят в архив — с предупреждением и подтверждением. Выгрузка XML без прайса отдаёт понятную ошибку вместо сбоя.",
   "blocked": []
 }
