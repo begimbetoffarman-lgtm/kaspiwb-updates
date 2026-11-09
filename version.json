@@ -1,6 +1,6 @@
 {
   "version": "0.9.36",
-  "url": "https://raw.githubusercontent.com/OWNER/REPO/main/update-0.9.36.zip",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.36.zip",
   "sha256": "702e3b2137fc4bbaedf9910065691b71e8fe4035d688e04ea327c7d9c07b27fc",
   "sig": "Hx8jtKe-JhhLJDBY54cfSMtFomVdwp3V0DFOPP__aI6h6ElXdppzI6-vy1x3KFb-6nTd5TdH6cwbd_-3IpeHDA",
   "notes": "Найденное (база): все находки WB, 1688 и Ozon теперь копятся, фильтры и выгрузка в CSV. Кнопка «Очистить базу». Инструкция обновлена.",
