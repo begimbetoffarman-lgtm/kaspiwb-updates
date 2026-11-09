@@ -1,8 +1,8 @@
 {
-  "version": "0.9.34",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.34.zip",
-  "sha256": "0d2cf6daca2e045b1a8368f6cb00d0539fd728dd7fe870b2523dadfa87cf3184",
-  "sig": "YeaCHuRsuxhzebC8rZWAXnaIeN5ir4L-C2Wcd9mG4-wAiOq4s2qCUT21fV8ViXNs0L6UANbhOaDVC_vaSFbeAQ",
-  "notes": "Исправлена кнопка «1688 по фото» в разделе ВБ: раньше она падала с ошибкой, если вкладка 1688 не открывалась. Добавлена кнопка «Отправить код заново» и подсказка в подключении кабинета Kaspi: куда придёт код и что делать, если письмо не пришло.",
+  "version": "0.9.35",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.35.zip",
+  "sha256": "725c42fc6e13da9c1601da438115b19034257bd86d23dbc67ce9b38487cb0fd1",
+  "sig": "idPUL6_BJaswnKXJ0ldRch2dFkdCdkdOaUC98vfa7u_pgUq0otplqo6VAsvGlzh6HEIinHazHMAe3L6ZpzRmDQ",
+  "notes": "Много исправлений надёжности и скорости: устранены падения при неверных данных в полях, ошибки теперь показываются понятным текстом вместо пустого экрана; таблицы и карточки товаров листаются быстрее; автосохранение черновиков; массовое изменение цен по всему магазину с предпросмотром; в радаре ВБ видно сумму к выплате и цветную маржу.",
   "blocked": []
 }
