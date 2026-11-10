@@ -1,8 +1,8 @@
 {
-  "version": "0.9.37",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.37.zip",
-  "sha256": "41d223dc23140568309758aee65d1b4dad510b4cf0afa26a4ecbffb3fd9a7529",
-  "sig": "wsc1x6me-CfIXXRFvHC0RwQopMJ0ssALATnz5lqzmogIdwVQfU9U1FAm4_cJ876qDEzNPTKnxomtVpdjPWbhAw",
-  "notes": "Радар показывает только текущий поиск. Кнопки прошлых поисков и «Очистить список». В «Найденном» удаление по строке, площадке и дате.",
+  "version": "0.9.38",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.38.zip",
+  "sha256": "2fcd040443561d2c48aaaef5a295593c2495a90c61d8333f6b12227db52a9bbe",
+  "sig": "XzbZ70REAqWEV9qc1FCrASNQ3tYh9T4teDv21QAoM6cg0WdGtKV_qYOHOa0Lc1SUmQeip8ndhbJxywoFiDLuAw",
+  "notes": "⚡ Новый режим: Радар вилок (WB / Ozon -> Kaspi)",
   "blocked": []
 }
