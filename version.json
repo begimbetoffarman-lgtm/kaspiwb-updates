@@ -1,8 +1,8 @@
 {
-  "version": "0.9.39",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.39.zip",
-  "sha256": "2e5a2cabceab5d7e3ba7e93fb797fecc2bc4f57238a5b154a075f9afc89dfb4e",
-  "sig": "QaCRrJo7wxUjDOLq1mK_uVb2-rbP0wWApV3msIP9Ql89R-G-lfKvV9zdwD8w5dTR_KbCdTHfuF8H9zMZUpjYBA",
-  "notes": "Фикс поиска WB (игрушки/категории), русские категории 1688, автоперевод запросов, Радар вилок",
+  "version": "0.9.40",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.40.zip",
+  "sha256": "2975f8c4f9bb17a606cdcd300ffd14eb1fad8fad935d14a1970588f498cdb052",
+  "sig": "mdSOyVxm7_CKbFgjx_WcVt4edAcLTWYnHTb8ra7BT_rYpIYx1emz5PQ8WXKHhOMvzwJX6_AL75wRXuWsg4hVCA",
+  "notes": "Единый последовательный поиск WB/1688/Ozon, точный фотопоиск 1688, кнопка поиска по названию",
   "blocked": []
 }
