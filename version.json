@@ -1,8 +1,8 @@
 {
-  "version": "0.9.47",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.47.zip",
-  "sha256": "ab9421bdb4b0a32e2468b4b7f312970f2871dd40424cfc5737a78cf70339c5ad",
-  "sig": "Eer4UUwETZWohDadrks9iYocQE_RX8zbb-HVWepoQI9ns2Yro3NU7djyWMJcVXS_2-R1rdBwb3UVuiA23AbDAw",
-  "notes": "Главная с прибылью и сроками, В пути и Возвраты с суммами, уведомления в Telegram, резервная копия, группы в меню, журнал отказов Kaspi, исправления ссылок и характеристик",
+  "version": "0.9.48",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.48.zip",
+  "sha256": "ba32dcd1e59129fc488a9581479b5d308aa84e4487f4e7c661669b99c0719156",
+  "sig": "kU90pFqhUzVaHKDjR0Y52vOXj3uWajBcEfZN94yA74ytaMhSHaMIgvDnPQnRh_NI656Jm91a4MfLS4uzVi4XDA",
+  "notes": "0.9.48: убран Telegram; Главная, В пути/Возвраты с суммами, прибыль, резервная копия, журнал отказов Kaspi, меню по группам",
   "blocked": []
 }
