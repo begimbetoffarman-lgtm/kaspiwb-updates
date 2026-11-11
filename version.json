@@ -1,8 +1,8 @@
 {
-  "version": "0.9.44",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.44.zip",
-  "sha256": "e7e3e777f536cbe144dcb1f61e78696d877ae48fbe8e1c65bc5dde283e3fb35c",
-  "sig": "N9VRdxHfOqWsmxNsUJi0TPWYXKhpIblTFK5UYOwdmTCc5JPCf0di4vtS770qg4g4DeLgK6R6N52rYUKTDgisDA",
-  "notes": "Карточки Kaspi из WB: бренд поставщика не переносится (Без бренда), чистка описания, точнее категория для игрушек, быстрее поиск WB и цены конкурентов, повтор при пустом ответе WB",
+  "version": "0.9.45",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.45.zip",
+  "sha256": "b4a44a919f5e7585b3fa849ad43d4d968958bca2454bcf62a9f7619a22af0da3",
+  "sig": "uannGipj80oMt7-f1T7m7iZhnCNjB-p0Oz8zV5QqKpeAszkaArL6HqqBMNb8wx9WDabUoK08Tzy3OI5wAJpIDg",
+  "notes": "Исправлен выбор подраздела в Арбитраже (искал по разделу), без бренда по умолчанию в карточках из WB, точнее категория игрушек",
   "blocked": []
 }
