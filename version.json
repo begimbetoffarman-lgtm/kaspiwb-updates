@@ -1,8 +1,8 @@
 {
-  "version": "0.9.49",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.49.zip",
-  "sha256": "6d26e98012ed84d69c3269fb5d033206e5e2bce0a99cd949fec6f9183359e0e4",
-  "sig": "Jl4yV-0wEfb6jDRNSnMj-Y2hAIWsBUt5_lUmgVj5cE6HW_7oXo34VuJD9uaQ62HR8YW1qrrzk67rK7oMclUBCA",
-  "notes": "0.9.49: экран Заказы: все статусы в одном меню (В пути, Возвраты с суммой), кнопка Назад, анимация фур; мотивационные баннеры в поиске и калькуляторе",
+  "version": "0.9.50",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.50.zip",
+  "sha256": "28aed177e5bd114e050cadb813963221e82ae1a185b2ff58482f705378b56da1",
+  "sig": "B30ce_oKv_TfUvnO8CQJG2o48I7ijUKRRpdDRwlyzD_yMxSl5oGtqE7fGtWm4z5l5sCQTBEl8UFx7gDxMdlBCA",
+  "notes": "0.9.50: оценка сочности в Арбитраже, курьер-помощник, дашборд Главной, налоги ИП и праздники, ночная трасса, баннеры; убраны быстрые ниши",
   "blocked": []
 }
