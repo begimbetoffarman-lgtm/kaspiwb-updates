@@ -1,8 +1,8 @@
 {
-  "version": "0.9.41",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.41.zip",
-  "sha256": "eb28cf15b781e51a1186f1dbd124d86da8c4be470ea3cc06eca90014a39cc66d",
-  "sig": "zJtlhh0CNi7ywVos49dGheVLJhDGX9lUKbJzRXTN7lj2GR6-IyJ4uTVXVZ81ayqGFFhSMmb-z9pjP9Qavs5sAA",
-  "notes": "Поиск по фото 1688 с выбором области, вход и поиск через браузер ego без Edge, история и подтверждение карточек Kaspi в Арбитраже, точнее поиск карточки Kaspi, исправлено определение региона WB",
+  "version": "0.9.42",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.42.zip",
+  "sha256": "12f1e88fabeb9796ae36e331caa0591d55b4cec05e3331431dfe34d57227184a",
+  "sig": "YA214BnIkbkvjIbegn-QMi0DAjQhKLOmK45H0cejJRPHbgn1SN_kNsbeSHZFFtsgaY6sAbO-91iM8NE0XZvDDQ",
+  "notes": "Категории 1688 грузятся мгновенно (встроенное дерево), выбор области на фото для поиска 1688, вход и поиск через браузер ego без Edge, история и подтверждение карточек Kaspi в Арбитраже, точнее поиск карточки Kaspi, исправлено определение региона WB",
   "blocked": []
 }
