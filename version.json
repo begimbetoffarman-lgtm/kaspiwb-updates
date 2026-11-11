@@ -1,8 +1,8 @@
 {
-  "version": "0.9.43",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.43.zip",
-  "sha256": "8de22d6b5c719a6d2583e8e1573ec91fce185c8312cebdecd50a19e625f21d4d",
-  "sig": "uV-7rrvUElB76zgdBuZ-s6TkD579M5WqO_0lzSnjRPcBCQOKKybQbUxiFsmkFIUAMolTERm5lQNX9wgrVjAZDw",
-  "notes": "Сохранение экрана и поиска при перезапуске, пробный период 12 дней, быстрее поиск WB и обновление цен конкурентов, ленивая проверка Kaspi, сжатие данных",
+  "version": "0.9.44",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.44.zip",
+  "sha256": "e7e3e777f536cbe144dcb1f61e78696d877ae48fbe8e1c65bc5dde283e3fb35c",
+  "sig": "N9VRdxHfOqWsmxNsUJi0TPWYXKhpIblTFK5UYOwdmTCc5JPCf0di4vtS770qg4g4DeLgK6R6N52rYUKTDgisDA",
+  "notes": "Карточки Kaspi из WB: бренд поставщика не переносится (Без бренда), чистка описания, точнее категория для игрушек, быстрее поиск WB и цены конкурентов, повтор при пустом ответе WB",
   "blocked": []
 }
