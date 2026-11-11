@@ -1,8 +1,8 @@
 {
-  "version": "0.9.46",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.46.zip",
-  "sha256": "4af10f9cca220b5b9d03c2b73a0dbc1bee8413056038af200fc56d583cd7c8e0",
-  "sig": "3Rjc0kmgG5rNhQLR1pImsZIgjWZxnjtI8PGKD43OkQzIbA-et-NGwpbkasMqy8Jmv2iEPC5U0LFXIccoBpUoCw",
-  "notes": "Исправлены ссылки на карточки Kaspi в Арбитраже, выбор подраздела, не больше 2 значений в характеристиках, самоисправление карточек по ответу Kaspi, без бренда по умолчанию, категория игрушек",
+  "version": "0.9.47",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.47.zip",
+  "sha256": "ab9421bdb4b0a32e2468b4b7f312970f2871dd40424cfc5737a78cf70339c5ad",
+  "sig": "Eer4UUwETZWohDadrks9iYocQE_RX8zbb-HVWepoQI9ns2Yro3NU7djyWMJcVXS_2-R1rdBwb3UVuiA23AbDAw",
+  "notes": "Главная с прибылью и сроками, В пути и Возвраты с суммами, уведомления в Telegram, резервная копия, группы в меню, журнал отказов Kaspi, исправления ссылок и характеристик",
   "blocked": []
 }
