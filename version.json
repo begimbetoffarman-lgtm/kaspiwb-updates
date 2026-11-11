@@ -1,8 +1,8 @@
 {
-  "version": "0.9.50",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.50.zip",
-  "sha256": "28aed177e5bd114e050cadb813963221e82ae1a185b2ff58482f705378b56da1",
-  "sig": "B30ce_oKv_TfUvnO8CQJG2o48I7ijUKRRpdDRwlyzD_yMxSl5oGtqE7fGtWm4z5l5sCQTBEl8UFx7gDxMdlBCA",
-  "notes": "0.9.50: оценка сочности в Арбитраже, курьер-помощник, дашборд Главной, налоги ИП и праздники, ночная трасса, баннеры; убраны быстрые ниши",
+  "version": "0.9.51",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.51.zip",
+  "sha256": "634b5383ad0bdc7ee218181b2e3622950887860ad71276680a1e1a06abd146a5",
+  "sig": "h7ZSfpM7v4ZvJZk8cyPybe04I-tlANrPwpZBAf1X5cAAEdXmEkQUvnz599xrEC2ePIkjmg5Dk3OA_nuwpcJrCA",
+  "notes": "0.9.51: убран курьер-помощник; в 0.9.50 были: оценка сочности в Арбитраже, дашборд Главной, налоги ИП и праздники, ночная трасса, баннеры",
   "blocked": []
 }
