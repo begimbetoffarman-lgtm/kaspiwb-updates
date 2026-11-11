@@ -1,8 +1,8 @@
 {
-  "version": "0.9.45",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.45.zip",
-  "sha256": "b4a44a919f5e7585b3fa849ad43d4d968958bca2454bcf62a9f7619a22af0da3",
-  "sig": "uannGipj80oMt7-f1T7m7iZhnCNjB-p0Oz8zV5QqKpeAszkaArL6HqqBMNb8wx9WDabUoK08Tzy3OI5wAJpIDg",
-  "notes": "Исправлен выбор подраздела в Арбитраже (искал по разделу), без бренда по умолчанию в карточках из WB, точнее категория игрушек",
+  "version": "0.9.46",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.46.zip",
+  "sha256": "4af10f9cca220b5b9d03c2b73a0dbc1bee8413056038af200fc56d583cd7c8e0",
+  "sig": "3Rjc0kmgG5rNhQLR1pImsZIgjWZxnjtI8PGKD43OkQzIbA-et-NGwpbkasMqy8Jmv2iEPC5U0LFXIccoBpUoCw",
+  "notes": "Исправлены ссылки на карточки Kaspi в Арбитраже, выбор подраздела, не больше 2 значений в характеристиках, самоисправление карточек по ответу Kaspi, без бренда по умолчанию, категория игрушек",
   "blocked": []
 }
