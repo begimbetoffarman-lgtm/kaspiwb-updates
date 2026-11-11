@@ -1,8 +1,8 @@
 {
-  "version": "0.9.42",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.42.zip",
-  "sha256": "12f1e88fabeb9796ae36e331caa0591d55b4cec05e3331431dfe34d57227184a",
-  "sig": "YA214BnIkbkvjIbegn-QMi0DAjQhKLOmK45H0cejJRPHbgn1SN_kNsbeSHZFFtsgaY6sAbO-91iM8NE0XZvDDQ",
-  "notes": "Категории 1688 грузятся мгновенно (встроенное дерево), выбор области на фото для поиска 1688, вход и поиск через браузер ego без Edge, история и подтверждение карточек Kaspi в Арбитраже, точнее поиск карточки Kaspi, исправлено определение региона WB",
+  "version": "0.9.43",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.43.zip",
+  "sha256": "8de22d6b5c719a6d2583e8e1573ec91fce185c8312cebdecd50a19e625f21d4d",
+  "sig": "uV-7rrvUElB76zgdBuZ-s6TkD579M5WqO_0lzSnjRPcBCQOKKybQbUxiFsmkFIUAMolTERm5lQNX9wgrVjAZDw",
+  "notes": "Сохранение экрана и поиска при перезапуске, пробный период 12 дней, быстрее поиск WB и обновление цен конкурентов, ленивая проверка Kaspi, сжатие данных",
   "blocked": []
 }
