@@ -1,8 +1,8 @@
 {
-  "version": "0.9.52",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.52.zip",
-  "sha256": "04257917ac1f0b5005e091ec0601a4a2311cc34396f4a37348fc64899024b019",
-  "sig": "yNkfmLkC29DU_44ihHbV0C4wLxUVeQeuhbuewX4gJQGlI2RpHX1X1lfuekmmw8ea14GuZuFFoQj_tIVd5Ce-AQ",
-  "notes": "0.9.52: в разделе Мой магазин Kaspi подтягиваются фото товаров по коду карточки",
+  "version": "0.9.53",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.53.zip",
+  "sha256": "182df0034a58f3c2da2d681852c6670827170655f455396dea07098e32f348b7",
+  "sig": "zF6TYG9mu_BEsBGj8zvlJLvKq9rd4NChg7U0mXGYAfp75DCb9AGEc3o2Z3OyxZdBZ5SoBuHA99WBj-GoY9WyAQ",
+  "notes": "0.9.53: автопредзаказ - товар с остатком 1 сам уходит в предзаказ на 12 дней с остатком 10",
   "blocked": []
 }
