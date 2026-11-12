@@ -1,8 +1,8 @@
 {
-  "version": "0.9.53",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.53.zip",
-  "sha256": "182df0034a58f3c2da2d681852c6670827170655f455396dea07098e32f348b7",
-  "sig": "zF6TYG9mu_BEsBGj8zvlJLvKq9rd4NChg7U0mXGYAfp75DCb9AGEc3o2Z3OyxZdBZ5SoBuHA99WBj-GoY9WyAQ",
-  "notes": "0.9.53: автопредзаказ - товар с остатком 1 сам уходит в предзаказ на 12 дней с остатком 10",
+  "version": "0.9.54",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.54.zip",
+  "sha256": "9ae655f45db8c8c9de95166a159f94de840b9d10a6368aeee0e71240fba8d677",
+  "sig": "I-8oKe2sIyxHLmTj8Q5gPB1EiZkdhSjGrJ7gA9fiePZWlTrnYQjelgLgCF-fx6pos9HqhqsWONBDEepVz4T1DA",
+  "notes": "0.9.54: запуск программы вместе с Windows (галочка в карточке Автопредзаказ), подсказки про запас остатка",
   "blocked": []
 }
