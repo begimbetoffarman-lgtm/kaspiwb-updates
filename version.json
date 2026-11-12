@@ -1,8 +1,8 @@
 {
-  "version": "0.9.55",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.55.zip",
-  "sha256": "0d35e0771ff68e8a1049a92912b72828647e9ff81dfd881e3436c806deedf42e",
-  "sig": "fQkPmzbGfgCmUEDp8uYfXICEROvl4nRag0MCJByvgobgDxtd1O11MzexUn4P4Y8a02V7sP0UklM8aPW5NgsABA",
-  "notes": "0.9.55: отправка цены, остатка и предзаказа в Kaspi из программы, сверка со всем кабинетом, фото и цены при листании, история цен конкурентов, поиск поставщика 1688 по фото, баннер об обновлении",
+  "version": "0.9.56",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.56.zip",
+  "sha256": "5492ed373411cee2e86b062698b86e31cda66ea7daaeaeeaadf4ce75af50bf96",
+  "sig": "2WLJkXgjUn_pVBfNw7E-FvhV8YNhgXb5fGNz4vpa4KgYfinmZVeCNjpI_2oouHeJi_v04LfT_Pykx1uLRpZNAQ",
+  "notes": "0.9.56: арбитраж WB и Ozon → Kaspi считает по реальной цене Kaspi (точная карточка), пересчёт после проверки Kaspi, оценка спроса по отзывам, защита от ложных совпадений и завышенной прибыли, без дублей. Подробности в инструкции.",
   "blocked": []
 }
