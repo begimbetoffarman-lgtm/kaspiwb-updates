@@ -1,8 +1,8 @@
 {
-  "version": "0.9.51",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.51.zip",
-  "sha256": "634b5383ad0bdc7ee218181b2e3622950887860ad71276680a1e1a06abd146a5",
-  "sig": "h7ZSfpM7v4ZvJZk8cyPybe04I-tlANrPwpZBAf1X5cAAEdXmEkQUvnz599xrEC2ePIkjmg5Dk3OA_nuwpcJrCA",
-  "notes": "0.9.51: убран курьер-помощник; в 0.9.50 были: оценка сочности в Арбитраже, дашборд Главной, налоги ИП и праздники, ночная трасса, баннеры",
+  "version": "0.9.52",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.52.zip",
+  "sha256": "04257917ac1f0b5005e091ec0601a4a2311cc34396f4a37348fc64899024b019",
+  "sig": "yNkfmLkC29DU_44ihHbV0C4wLxUVeQeuhbuewX4gJQGlI2RpHX1X1lfuekmmw8ea14GuZuFFoQj_tIVd5Ce-AQ",
+  "notes": "0.9.52: в разделе Мой магазин Kaspi подтягиваются фото товаров по коду карточки",
   "blocked": []
 }
