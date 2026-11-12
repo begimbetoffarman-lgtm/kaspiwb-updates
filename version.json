@@ -1,8 +1,8 @@
 {
-  "version": "0.9.58",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.58.zip",
-  "sha256": "d8a1ee14da9ed9fc12fa4fde400c9273d2eaaf3eaa99676aed2adcdd42530c06",
-  "sig": "UnEYze4P5VT43aPRWVd2KlEaNwCJuV2osN2jKnBt9jJWg0Yc8T7q-qRjTj68FDjlOG67bN-_r0iu3eG8VXx_Ag",
-  "notes": "1688: до 90 карточек со страницы, фоновая подгрузка страниц (до 34), продажи, повторные покупки, поставщик и оценки, фильтры и сортировка, память выдачи 7 дней, история поисков; город в запросах Kaspi, характеристики в сопоставлении, защита XML-прайса",
+  "version": "0.9.59",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.59.zip",
+  "sha256": "8f8194f0136b87909442bd4e41987344c2e289d621ec6a7572c9b62cc4bd255d",
+  "sig": "KRieTL8kPucsJGKtBVpGSWRfQrqyUUTc7v3M5ofrhtAhxFBzovt0lDzWfKmEzXBdgR95jimLT7HxAL6F0f5XDg",
+  "notes": "Характеристики и фото с 1688 переносятся в черновики, кнопка «Выровнять варианты», защита настроек, адаптивное чтение 1688",
   "blocked": []
 }
