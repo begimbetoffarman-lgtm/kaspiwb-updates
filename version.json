@@ -1,8 +1,8 @@
 {
-  "version": "0.9.54",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.54.zip",
-  "sha256": "9ae655f45db8c8c9de95166a159f94de840b9d10a6368aeee0e71240fba8d677",
-  "sig": "I-8oKe2sIyxHLmTj8Q5gPB1EiZkdhSjGrJ7gA9fiePZWlTrnYQjelgLgCF-fx6pos9HqhqsWONBDEepVz4T1DA",
-  "notes": "0.9.54: запуск программы вместе с Windows (галочка в карточке Автопредзаказ), подсказки про запас остатка",
+  "version": "0.9.55",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.55.zip",
+  "sha256": "0d35e0771ff68e8a1049a92912b72828647e9ff81dfd881e3436c806deedf42e",
+  "sig": "fQkPmzbGfgCmUEDp8uYfXICEROvl4nRag0MCJByvgobgDxtd1O11MzexUn4P4Y8a02V7sP0UklM8aPW5NgsABA",
+  "notes": "0.9.55: отправка цены, остатка и предзаказа в Kaspi из программы, сверка со всем кабинетом, фото и цены при листании, история цен конкурентов, поиск поставщика 1688 по фото, баннер об обновлении",
   "blocked": []
 }
