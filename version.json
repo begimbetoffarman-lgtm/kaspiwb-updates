@@ -1,8 +1,8 @@
 {
-  "version": "0.9.57",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.57.zip",
-  "sha256": "625b2a3b42335d91cddbbce787f14c90a158aeae1e4504d8a1dd668d7ac4786b",
-  "sig": "ODXiag-NLIP4vEMvCU33abc5x2QeksEuI81A5WY7dDlScCFKyIGSPCmyz9Jlvq5VoSJ0Rx7TngJ6X2sUPlqEDQ",
-  "notes": "Новый дизайн Кокпит, меню из 5 пунктов, кнопка очистки прошлых поисков, пометка автоввода кода из письма",
+  "version": "0.9.58",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.58.zip",
+  "sha256": "d8a1ee14da9ed9fc12fa4fde400c9273d2eaaf3eaa99676aed2adcdd42530c06",
+  "sig": "UnEYze4P5VT43aPRWVd2KlEaNwCJuV2osN2jKnBt9jJWg0Yc8T7q-qRjTj68FDjlOG67bN-_r0iu3eG8VXx_Ag",
+  "notes": "1688: до 90 карточек со страницы, фоновая подгрузка страниц (до 34), продажи, повторные покупки, поставщик и оценки, фильтры и сортировка, память выдачи 7 дней, история поисков; город в запросах Kaspi, характеристики в сопоставлении, защита XML-прайса",
   "blocked": []
 }
