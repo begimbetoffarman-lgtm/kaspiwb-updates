@@ -1,8 +1,8 @@
 {
-  "version": "0.9.61",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.61.zip",
-  "sha256": "30567e874078eb9dfba9d017ab7b8b49f72480d5efcd399df1ead681978eeb12",
-  "sig": "0dYC0UV8UD1Rk7VEqFle1PieEiRRkR58FUAwNARDdO0voYZdUPzmBu-z9MJO56CbFhl8GrNghGmIJbtNo0VBBw",
-  "notes": "Реферальная программа (код друга, статусы), поиск 1688: листание страниц и новые поля поставщика, исправления",
+  "version": "0.9.62",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.62.zip",
+  "sha256": "c29077078af176e62ae8815f279053f0d76c1a7c521e46a0bf1a9aa652dae8fb",
+  "sig": "_WrGyBTw4O_qdBr9PxANjmcZBWwEMe--qwuC_RvrihhqZf6hMTzPWP8o7XRfOlmTk8ZHrjvvGFUn658WAVc1Cw",
+  "notes": "Перевод запросов 1688 из нескольких слов. Нейтральный код серии в карточках 1688. Ставка комиссии по категории. Кнопка «Составить текст». Окно с именем и номером для связи.",
   "blocked": []
 }
