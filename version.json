@@ -1,8 +1,8 @@
 {
-  "version": "0.9.63",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.63.zip",
-  "sha256": "e30f657d51661dcb8fd1dd9c195533f2270ae5fe58c43c07b774bfa46a81ea5f",
-  "sig": "NqZJLFVur6i102fjfX2JQEMV__xeR_cnPdowYStQj_3i9aXF6lThhVqjV2MVtqwrdR4EgA18_fDJzpXE30hXBw",
-  "notes": "Исправлено зависание страницы «Мой магазин» (расчёт комиссии по категориям).",
+  "version": "0.9.64",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.64.zip",
+  "sha256": "c3621c0b99d1eacfcfa930a6e1e308c484f6d9a5be3b6a49abd00dbfabedfd81",
+  "sig": "A7VtaCip1pmqgxY5CvRS6R3ZyDlmXhTolq00c0kMYQHo4jQ4htoAK7NVvJsuEc4oFLpU-4ZAQVCr13auvYrWBA",
+  "notes": "Самопроверка: зависимые пункты склеены, устаревший результат помечается, новая проверка скорости программы.",
   "blocked": []
 }
