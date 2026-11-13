@@ -1,8 +1,8 @@
 {
-  "version": "0.9.64",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.64.zip",
-  "sha256": "c3621c0b99d1eacfcfa930a6e1e308c484f6d9a5be3b6a49abd00dbfabedfd81",
-  "sig": "A7VtaCip1pmqgxY5CvRS6R3ZyDlmXhTolq00c0kMYQHo4jQ4htoAK7NVvJsuEc4oFLpU-4ZAQVCr13auvYrWBA",
-  "notes": "Самопроверка: зависимые пункты склеены, устаревший результат помечается, новая проверка скорости программы.",
+  "version": "0.9.65",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.65.zip",
+  "sha256": "3c6e1fc7e95e0826d82a6a920b9993e240bd2594abeb16ecd47678a1fe538f44",
+  "sig": "sFFLttM8mEnJn0ca07Q8KLYz0EO7fwnlRHEhhDOIdh0YmVwyV-IeeQa_ay1UPB8EMsxYNI3gVVJnXpsNBUObDw",
+  "notes": "Исправлена ошибка загрузки «Моего магазина», когда у карточки нет конкурентов.",
   "blocked": []
 }
