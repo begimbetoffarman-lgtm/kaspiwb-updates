@@ -1,8 +1,8 @@
 {
-  "version": "0.9.67",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.67.zip",
-  "sha256": "9ff9cce9197ebbe51a0741c11274ef05a6fe785dd9a4f1208abe5f10aaff517a",
-  "sig": "1eoCDceS7E6KTao08Ij2TSHvZvMosLbCEPt2Ln7He59XP4I75nOJMx_XKc5hHgnfUqxBSNfQbxo4cvGu7t73Aw",
-  "notes": "Понятные причины ошибок при входе в почту, инструкции для Mail.ru, Яндекса и Outlook, кнопка «Показать ещё» и минимум отзывов «Любое» в поиске WB, комиссия по категории, кнопка «Составить текст», окно номера для связи, история цен Kaspi.",
+  "version": "0.9.68",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.68.zip",
+  "sha256": "5652610b330e22d56067b013f3e4de904ec03dc2f1a2d1e6b0843ad3c62cf48c",
+  "sig": "RlMa9qAMsIvmwcw4609OzY0jo8-ADGT5M43Qk9ayG5JkF8EV-dycW05ZCm5JtQkNKcy6TOASU36Jqhb3kRoIDQ",
+  "notes": "Новая карточка «Следующий шаг» на Главной, меню «Поиск товаров с WB», вкладка «Слежение за WB», меньше лишнего текста (ниши, фильтры и подсказки сворачиваются), кнопки перехода в пустых списках.",
   "blocked": []
 }
