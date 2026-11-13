@@ -1,8 +1,8 @@
 {
-  "version": "0.9.59",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.59.zip",
-  "sha256": "8f8194f0136b87909442bd4e41987344c2e289d621ec6a7572c9b62cc4bd255d",
-  "sig": "KRieTL8kPucsJGKtBVpGSWRfQrqyUUTc7v3M5ofrhtAhxFBzovt0lDzWfKmEzXBdgR95jimLT7HxAL6F0f5XDg",
-  "notes": "Характеристики и фото с 1688 переносятся в черновики, кнопка «Выровнять варианты», защита настроек, адаптивное чтение 1688",
+  "version": "0.9.60",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.60.zip",
+  "sha256": "ee1c3101811fdf1e176cce8096376d7f6d530845204038db4e0abdb5178a7edb",
+  "sig": "hkpxJrmfy7QaICWOw2GET4RUkkCZVzoDsOK3k80dbkUX43P0Kz6Q-Ek4tk1SuI0BVzSGPCcP9X1BhRbDVzeYDg",
+  "notes": "Постоянный номер компьютера: лицензия больше не слетает при смене сети или VPN",
   "blocked": []
 }
