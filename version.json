@@ -1,8 +1,8 @@
 {
-  "version": "0.9.65",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.65.zip",
-  "sha256": "3c6e1fc7e95e0826d82a6a920b9993e240bd2594abeb16ecd47678a1fe538f44",
-  "sig": "sFFLttM8mEnJn0ca07Q8KLYz0EO7fwnlRHEhhDOIdh0YmVwyV-IeeQa_ay1UPB8EMsxYNI3gVVJnXpsNBUObDw",
-  "notes": "Исправлена ошибка загрузки «Моего магазина», когда у карточки нет конкурентов.",
+  "version": "0.9.66",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.66.zip",
+  "sha256": "750dc0cf118fff7d74b2cdff80c29c6fc52d7a29c9dc329c7e68fc35614d21cf",
+  "sig": "3-M07YOl7Rj1Y6UY2Chva-IaZ0VJrNG9iNit8F3j7SptnPPlVQcTS2XRPKVBeiXCOOi32YNOyLjHCImBOHNjAA",
+  "notes": "Исправлен вход в кабинет с кодом из почты, быстрый статус мастера настройки, нейтральный артикул в карточках.",
   "blocked": []
 }
