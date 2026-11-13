@@ -1,8 +1,8 @@
 {
-  "version": "0.9.62",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.62.zip",
-  "sha256": "c29077078af176e62ae8815f279053f0d76c1a7c521e46a0bf1a9aa652dae8fb",
-  "sig": "_WrGyBTw4O_qdBr9PxANjmcZBWwEMe--qwuC_RvrihhqZf6hMTzPWP8o7XRfOlmTk8ZHrjvvGFUn658WAVc1Cw",
-  "notes": "Перевод запросов 1688 из нескольких слов. Нейтральный код серии в карточках 1688. Ставка комиссии по категории. Кнопка «Составить текст». Окно с именем и номером для связи.",
+  "version": "0.9.63",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.63.zip",
+  "sha256": "e30f657d51661dcb8fd1dd9c195533f2270ae5fe58c43c07b774bfa46a81ea5f",
+  "sig": "NqZJLFVur6i102fjfX2JQEMV__xeR_cnPdowYStQj_3i9aXF6lThhVqjV2MVtqwrdR4EgA18_fDJzpXE30hXBw",
+  "notes": "Исправлено зависание страницы «Мой магазин» (расчёт комиссии по категориям).",
   "blocked": []
 }
