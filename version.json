@@ -1,8 +1,8 @@
 {
-  "version": "0.9.60",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.60.zip",
-  "sha256": "ee1c3101811fdf1e176cce8096376d7f6d530845204038db4e0abdb5178a7edb",
-  "sig": "hkpxJrmfy7QaICWOw2GET4RUkkCZVzoDsOK3k80dbkUX43P0Kz6Q-Ek4tk1SuI0BVzSGPCcP9X1BhRbDVzeYDg",
-  "notes": "Постоянный номер компьютера: лицензия больше не слетает при смене сети или VPN",
+  "version": "0.9.61",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.61.zip",
+  "sha256": "30567e874078eb9dfba9d017ab7b8b49f72480d5efcd399df1ead681978eeb12",
+  "sig": "0dYC0UV8UD1Rk7VEqFle1PieEiRRkR58FUAwNARDdO0voYZdUPzmBu-z9MJO56CbFhl8GrNghGmIJbtNo0VBBw",
+  "notes": "Реферальная программа (код друга, статусы), поиск 1688: листание страниц и новые поля поставщика, исправления",
   "blocked": []
 }
