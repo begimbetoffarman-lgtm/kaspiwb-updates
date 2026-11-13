@@ -1,8 +1,8 @@
 {
-  "version": "0.9.66",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.66.zip",
-  "sha256": "750dc0cf118fff7d74b2cdff80c29c6fc52d7a29c9dc329c7e68fc35614d21cf",
-  "sig": "3-M07YOl7Rj1Y6UY2Chva-IaZ0VJrNG9iNit8F3j7SptnPPlVQcTS2XRPKVBeiXCOOi32YNOyLjHCImBOHNjAA",
-  "notes": "Исправлен вход в кабинет с кодом из почты, быстрый статус мастера настройки, нейтральный артикул в карточках.",
+  "version": "0.9.67",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.67.zip",
+  "sha256": "9ff9cce9197ebbe51a0741c11274ef05a6fe785dd9a4f1208abe5f10aaff517a",
+  "sig": "1eoCDceS7E6KTao08Ij2TSHvZvMosLbCEPt2Ln7He59XP4I75nOJMx_XKc5hHgnfUqxBSNfQbxo4cvGu7t73Aw",
+  "notes": "Понятные причины ошибок при входе в почту, инструкции для Mail.ru, Яндекса и Outlook, кнопка «Показать ещё» и минимум отзывов «Любое» в поиске WB, комиссия по категории, кнопка «Составить текст», окно номера для связи, история цен Kaspi.",
   "blocked": []
 }
