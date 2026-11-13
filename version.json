@@ -1,8 +1,8 @@
 {
-  "version": "0.9.68",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.68.zip",
-  "sha256": "5652610b330e22d56067b013f3e4de904ec03dc2f1a2d1e6b0843ad3c62cf48c",
-  "sig": "RlMa9qAMsIvmwcw4609OzY0jo8-ADGT5M43Qk9ayG5JkF8EV-dycW05ZCm5JtQkNKcy6TOASU36Jqhb3kRoIDQ",
-  "notes": "Новая карточка «Следующий шаг» на Главной, меню «Поиск товаров с WB», вкладка «Слежение за WB», меньше лишнего текста (ниши, фильтры и подсказки сворачиваются), кнопки перехода в пустых списках.",
+  "version": "0.9.69",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.69.zip",
+  "sha256": "14e0c22182dea741cbd762d66935c38edd5674fbc145578e8bc9eb3c450be6ba",
+  "sig": "TIbbFT4UsSk9aZw5BEVBw0OpdLe0DAF6-A5SVHp4csT6nU6OItj0tf50LTthFGxCMBG3jP2Fpniep_hOiwIaDw",
+  "notes": "«Мой магазин»: фото и название открывают карточку на Kaspi, ваша цена в блоке продавцов, умная сортировка и фильтры, закупка больше не подставляется автоматически, таблица помещается по ширине. Крупнее мелкий шрифт, лучше контраст в светлой и тёмной теме.",
   "blocked": []
 }
