@@ -1,8 +1,8 @@
 {
-  "version": "0.9.72",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.72.zip",
-  "sha256": "3517e5a84f60a5cf56fb84a210d15311d3e5d219ea200a05678981a66086ab1b",
-  "sig": "qwUN7H1zaj1sEOsnfvvkTDk1qYMdDjWQ-87R3RmHkI70B09a299EQn24SFYHgdAGeOu55rjfxJyNLiCbLXjSAQ",
-  "notes": "Финансы: чистая прибыль, вкладка «Финансы», расходы, возвраты, прогноз, Excel; блоки «Можно закупить дешевле» и «Деньги в товаре»; метка «есть дешевле» в Моём магазине. После обновления перезапустите программу.",
+  "version": "0.9.73",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.73.zip",
+  "sha256": "27e0da22503b85c42164b30b0b25242a2ffa83ef3ee39cb0e397a3883b2a623e",
+  "sig": "T3duIIFXVj7ew0dY5q3YqAxUNrtnGLitzty_mly0snRUyagQMstkFrsd1nJDZz_2VcmRiKUglcMBMGGpsacDCg",
+  "notes": "Исправление: если у проданных товаров нет закупки, «Чистыми» и прогноз на 30 дней больше не показывают неверные числа. Перезапустите программу после обновления.",
   "blocked": []
 }
