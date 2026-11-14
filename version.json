@@ -1,8 +1,8 @@
 {
-  "version": "0.9.69",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.69.zip",
-  "sha256": "14e0c22182dea741cbd762d66935c38edd5674fbc145578e8bc9eb3c450be6ba",
-  "sig": "TIbbFT4UsSk9aZw5BEVBw0OpdLe0DAF6-A5SVHp4csT6nU6OItj0tf50LTthFGxCMBG3jP2Fpniep_hOiwIaDw",
-  "notes": "«Мой магазин»: фото и название открывают карточку на Kaspi, ваша цена в блоке продавцов, умная сортировка и фильтры, закупка больше не подставляется автоматически, таблица помещается по ширине. Крупнее мелкий шрифт, лучше контраст в светлой и тёмной теме.",
+  "version": "0.9.70",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.70.zip",
+  "sha256": "2e1e4f9fc52fe608a8e1d0f1c86162ca983bbc1627092d8d851bc52f92ec0a3c",
+  "sig": "mVDbGOMMkX8_UMjI2seUjwkv9GwbxhlcTms-jBA-0xQah9C6expiu_4rUHrUWd6dofFQLieGtcJKMdsdM9KnCg",
+  "notes": "Новое в «Мой магазин»: кнопка «🔍 дешевле» ищет ваш товар на WB и Ozon по фото, блок «Китай (1688)» считает закупку. Для поиска по фото нужен браузер ego (Настройки → «Браузер ego»). Закупка записывается только вашей кнопкой.",
   "blocked": []
 }
