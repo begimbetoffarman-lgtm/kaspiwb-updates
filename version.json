@@ -1,8 +1,8 @@
 {
-  "version": "0.9.71",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.71.zip",
-  "sha256": "764685ddb05fb0bf80a187a05d483be221a33d504b220666ce7842fcf4ed24a3",
-  "sig": "0EigB-T_JalflD7YYoUS3lji_7S0xFyypw1G2o5fHmzT_eBDzkR66VULex4XaAMx861ceFBVnyc-fOlaYVrhCg",
-  "notes": "«🔍 дешевле» работает быстрее: результаты WB появляются сразу, Ozon дописывается следом. Меньше пауз и лишних заходов на WB, запросов к сайтам не больше.",
+  "version": "0.9.72",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.72.zip",
+  "sha256": "3517e5a84f60a5cf56fb84a210d15311d3e5d219ea200a05678981a66086ab1b",
+  "sig": "qwUN7H1zaj1sEOsnfvvkTDk1qYMdDjWQ-87R3RmHkI70B09a299EQn24SFYHgdAGeOu55rjfxJyNLiCbLXjSAQ",
+  "notes": "Финансы: чистая прибыль, вкладка «Финансы», расходы, возвраты, прогноз, Excel; блоки «Можно закупить дешевле» и «Деньги в товаре»; метка «есть дешевле» в Моём магазине. После обновления перезапустите программу.",
   "blocked": []
 }
