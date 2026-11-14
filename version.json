@@ -1,8 +1,8 @@
 {
-  "version": "0.9.73",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.73.zip",
-  "sha256": "27e0da22503b85c42164b30b0b25242a2ffa83ef3ee39cb0e397a3883b2a623e",
-  "sig": "T3duIIFXVj7ew0dY5q3YqAxUNrtnGLitzty_mly0snRUyagQMstkFrsd1nJDZz_2VcmRiKUglcMBMGGpsacDCg",
-  "notes": "Исправление: если у проданных товаров нет закупки, «Чистыми» и прогноз на 30 дней больше не показывают неверные числа. Перезапустите программу после обновления.",
+  "version": "0.9.74",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.74.zip",
+  "sha256": "4a5e8eddacb87d9672af5d4336da5f1208419e56df2549c6f82adc9f38a37261",
+  "sig": "c5A5GCXU3nFW9_y0vS_Hufg9SQNAweJ84xT4--OllECIiO-iATROizSYdnxWjM6wpsSRrUDPajBcqerliy8qBw",
+  "notes": "Мой магазин: снятые с продажи товары больше не мешают, они уходят во вкладку «Снятые». Программа сама проверяет витрину Kaspi. Перезапустите программу после обновления.",
   "blocked": []
 }
