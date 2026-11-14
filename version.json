@@ -1,8 +1,8 @@
 {
-  "version": "0.9.70",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.70.zip",
-  "sha256": "2e1e4f9fc52fe608a8e1d0f1c86162ca983bbc1627092d8d851bc52f92ec0a3c",
-  "sig": "mVDbGOMMkX8_UMjI2seUjwkv9GwbxhlcTms-jBA-0xQah9C6expiu_4rUHrUWd6dofFQLieGtcJKMdsdM9KnCg",
-  "notes": "Новое в «Мой магазин»: кнопка «🔍 дешевле» ищет ваш товар на WB и Ozon по фото, блок «Китай (1688)» считает закупку. Для поиска по фото нужен браузер ego (Настройки → «Браузер ego»). Закупка записывается только вашей кнопкой.",
+  "version": "0.9.71",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.71.zip",
+  "sha256": "764685ddb05fb0bf80a187a05d483be221a33d504b220666ce7842fcf4ed24a3",
+  "sig": "0EigB-T_JalflD7YYoUS3lji_7S0xFyypw1G2o5fHmzT_eBDzkR66VULex4XaAMx861ceFBVnyc-fOlaYVrhCg",
+  "notes": "«🔍 дешевле» работает быстрее: результаты WB появляются сразу, Ozon дописывается следом. Меньше пауз и лишних заходов на WB, запросов к сайтам не больше.",
   "blocked": []
 }
