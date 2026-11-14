@@ -1,8 +1,8 @@
 {
-  "version": "0.9.74",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.74.zip",
-  "sha256": "4a5e8eddacb87d9672af5d4336da5f1208419e56df2549c6f82adc9f38a37261",
-  "sig": "c5A5GCXU3nFW9_y0vS_Hufg9SQNAweJ84xT4--OllECIiO-iATROizSYdnxWjM6wpsSRrUDPajBcqerliy8qBw",
-  "notes": "Мой магазин: снятые с продажи товары больше не мешают, они уходят во вкладку «Снятые». Программа сама проверяет витрину Kaspi. Перезапустите программу после обновления.",
+  "version": "0.9.75",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.75.zip",
+  "sha256": "5c968fedd550dabcc5ed3dcbeebb657cf6a2e636f1090e1347c5bb1fb908cd5c",
+  "sig": "CqncrmLQWDXpPK-c7iQYZJuND0-EiVnMRCkPNpHBJw-KdMCjRObSjhq_DCWZsdRzrZ4OBrqlJPgTwdThnkftAQ",
+  "notes": "Заказы и накладные: кнопка «Собрать PDF» показывает ход работы, ошибки и ссылку «Открыть PDF». Перезапустите программу после обновления.",
   "blocked": []
 }
