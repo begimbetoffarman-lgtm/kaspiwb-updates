@@ -1,8 +1,8 @@
 {
-  "version": "0.9.79",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.79.zip",
-  "sha256": "187b171906f2584cf81294484aea9ff2c9627305b72be9f19373e797234d0a7a",
-  "sig": "GZ3F0pgXhmqC3LAz-qh8XHT7KB3Dyagk7giq3mjE-h2MwHtD4prA1yIy4cvC4Y0YTspdlGDBwoqO5vrQQ5LBBA",
-  "notes": "Понятные кнопки «Создать свою карточку» и «Присоединиться к готовой», автоссылка на предзаказе, размер из габаритов",
+  "version": "0.9.80",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.80.zip",
+  "sha256": "ebd79a41032e2b6cad4d92045f20a4a3e0573ae9fd4b23819c3f685a8f4a8c9e",
+  "sig": "htgHC5IH_wVBqpUPO5x9vgcBpP74AYsSeYptVHJSuAZ4GKDQxxKVtRlIZ-Tf-eQ8FX6lJraCbPmCegJyz5QZDA",
+  "notes": "Проверка продавцов Kaspi: для всех товаров на экране, в 2 раза быстрее на один товар",
   "blocked": []
 }
