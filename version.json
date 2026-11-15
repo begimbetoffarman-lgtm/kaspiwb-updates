@@ -1,8 +1,8 @@
 {
-  "version": "0.9.75",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.75.zip",
-  "sha256": "5c968fedd550dabcc5ed3dcbeebb657cf6a2e636f1090e1347c5bb1fb908cd5c",
-  "sig": "CqncrmLQWDXpPK-c7iQYZJuND0-EiVnMRCkPNpHBJw-KdMCjRObSjhq_DCWZsdRzrZ4OBrqlJPgTwdThnkftAQ",
-  "notes": "Заказы и накладные: кнопка «Собрать PDF» показывает ход работы, ошибки и ссылку «Открыть PDF». Перезапустите программу после обновления.",
+  "version": "0.9.76",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.76.zip",
+  "sha256": "c4dbf7f9fa728717c61d3fb2b5b2d7085b3ce6fc9d42bcf92e1e609b98891a3b",
+  "sig": "8k2puplVB-dk9RWu9Rrd5h9XVLuhueQhUcOT0sk4Um3ZnkI0zcUpyUzm5eaaDMR4pJKmkcE4h2w5G4lf1h3CDw",
+  "notes": "Поиск с Wildberries: проверка продавцов на Kaspi в 4 потока, примерно вдвое быстрее",
   "blocked": []
 }
