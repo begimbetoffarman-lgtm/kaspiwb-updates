@@ -1,8 +1,8 @@
 {
-  "version": "0.9.77",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.77.zip",
-  "sha256": "43b30f3391498a1a509272c159723fae1c653d1f51c0545666a46e0ae763f2a3",
-  "sig": "TJHb6MyavwvvEUEq45You9ftmbfPFwyCqMlQnQxk5Pvk5PyGdeo3H3mL5ve33C3LNCTXDIwuDGfdQUw9l44LDg",
-  "notes": "Кнопка «В магазин» создаёт черновик карточки Kaspi; кнопка WhatsApp для связи с автором",
+  "version": "0.9.78",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.78.zip",
+  "sha256": "6443038d91424a033845c38fb30a588041422fb909779519795f840f41fe2857",
+  "sig": "dj7ct3MreD8WS233XgfnNY8P1zvhgD0Rt5urUkS0tixt5FCQo3iUcNp1UCLUX9xhhyJg-Q_Ylph0O3_C6XRfCA",
+  "notes": "В черновике карточки: цена и закупка из связки, пол и возраст подставляются автоматически",
   "blocked": []
 }
