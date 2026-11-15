@@ -1,8 +1,8 @@
 {
-  "version": "0.9.76",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.76.zip",
-  "sha256": "c4dbf7f9fa728717c61d3fb2b5b2d7085b3ce6fc9d42bcf92e1e609b98891a3b",
-  "sig": "8k2puplVB-dk9RWu9Rrd5h9XVLuhueQhUcOT0sk4Um3ZnkI0zcUpyUzm5eaaDMR4pJKmkcE4h2w5G4lf1h3CDw",
-  "notes": "Поиск с Wildberries: проверка продавцов на Kaspi в 4 потока, примерно вдвое быстрее",
+  "version": "0.9.77",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.77.zip",
+  "sha256": "43b30f3391498a1a509272c159723fae1c653d1f51c0545666a46e0ae763f2a3",
+  "sig": "TJHb6MyavwvvEUEq45You9ftmbfPFwyCqMlQnQxk5Pvk5PyGdeo3H3mL5ve33C3LNCTXDIwuDGfdQUw9l44LDg",
+  "notes": "Кнопка «В магазин» создаёт черновик карточки Kaspi; кнопка WhatsApp для связи с автором",
   "blocked": []
 }
