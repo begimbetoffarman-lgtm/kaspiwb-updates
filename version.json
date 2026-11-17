@@ -1,8 +1,8 @@
 {
-  "version": "0.9.81",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.81.zip",
-  "sha256": "8fb8f9de9ae51b8ea7e4995a3613c1c10674d53cfa6abe5235ee5f6ed487e3f3",
-  "sig": "1tfnq2LCmR8xh2ACJBqqnkp5Lsa_3sKyJRpLkuqZKcy1FKq4aJTVuFTVW5ttCu33IneSfyuBwUnMzEZTILsCCw",
-  "notes": "Мост цен с Kaspi в анализе карточек, исправлено снятие выходных",
+  "version": "0.9.82",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.82.zip",
+  "sha256": "b874f1da6c38e0bb881eb95fe3a8686758603ef72c21778b7518297375cdd382",
+  "sig": "SySLfaq6Iu66AsXsD3RL_bz5XeYTDzl45K1vxKCHrVLpUvza_jXWYuwn1iJKaRBjBPXJjI8oMR8lqU_t1-RMDg",
+  "notes": "Выгодные связки: без выдуманной цены продажи, прибыль только по реальной цене Kaspi",
   "blocked": []
 }
