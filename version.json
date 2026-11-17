@@ -1,8 +1,8 @@
 {
-  "version": "0.9.85",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.85.zip",
-  "sha256": "fecae8c3adc75ce4446e0ea08c38398157322d30083860a64f738b562eec7976",
-  "sig": "bf88ixLIIMNzrvQ4a1swmorHb0oY5InxR74S3TW7lV2kuycXqmKrn7Z-ky8XMQB7tvHERSPz81_bzPdAQK89DQ",
-  "notes": "Предзаказ по ссылке Kaspi, меньше шума в интерфейсе, ночной режим, анимации, Ctrl+K",
+  "version": "0.9.86",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.86.zip",
+  "sha256": "51b979990b6eba48a1a5170516f423edf99a981c93b8458d54b2f5c8a6204b9b",
+  "sig": "66Xi2k4qa15sgTxGu5Q0C45r3CEFw78mKwaAhnzRLBr52Br2ACHg4IdaUqVKR66yQhgaoZ-NN2D3SS1-Ikt_CA",
+  "notes": "Значки, боковое меню без пустоты, тумблеры, быстрый поиск",
   "blocked": []
 }
