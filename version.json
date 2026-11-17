@@ -1,8 +1,8 @@
 {
-  "version": "0.9.86",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.86.zip",
-  "sha256": "51b979990b6eba48a1a5170516f423edf99a981c93b8458d54b2f5c8a6204b9b",
-  "sig": "66Xi2k4qa15sgTxGu5Q0C45r3CEFw78mKwaAhnzRLBr52Br2ACHg4IdaUqVKR66yQhgaoZ-NN2D3SS1-Ikt_CA",
-  "notes": "Значки, боковое меню без пустоты, тумблеры, быстрый поиск",
+  "version": "0.9.87",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.87.zip",
+  "sha256": "4fa1a402b7020e886285d1e873256858433d6b0d9c9bcd73a5475f4a1e1818a3",
+  "sig": "AtfP53Ga3CMci23b26AzV-im17VMSV3WU0eZqgUUbirxK-6IS19OIk3yvJUzFZIII3Spu8Kg56FhkZKy2WgxAA",
+  "notes": "Улучшение карточки Kaspi: фото и описание с WB, заявка в Kaspi с подтверждением",
   "blocked": []
 }
