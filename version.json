@@ -1,8 +1,8 @@
 {
-  "version": "0.9.83",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.83.zip",
-  "sha256": "ce82e95f2a21d9c43fdf2620c3959967785e7560e326064b2f50c5bf44c16621",
-  "sig": "6ioORsiq42wHiKhHVVej1tp2ZP0usULFc86d4UOXAGju2TDmWl5qY7TMOz55Hiz_Tz5Ds7xrdfZgqOkn37hAAA",
-  "notes": "Категории Ozon в арбитраже, страницы по 40 товаров, компактные карточки",
+  "version": "0.9.84",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.84.zip",
+  "sha256": "6db26bc10dce8b6d421ae9c674be5e305f6250b5812c299337303a5e80444320",
+  "sig": "KOKq3jrnruHTSNwib50aAoelH09xqRqQZhfffxx4Ddpzy-Jb0nzyQTQlwQTjB561DCoDbdWOLNGeBn1w1A6lCw",
+  "notes": "Точнее поиск карточки на Kaspi, без выдуманной прибыли, история пересчитывает цену, скрытие невыгодных связок",
   "blocked": []
 }
