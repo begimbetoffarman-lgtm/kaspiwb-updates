@@ -1,8 +1,8 @@
 {
-  "version": "0.9.82",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.82.zip",
-  "sha256": "b874f1da6c38e0bb881eb95fe3a8686758603ef72c21778b7518297375cdd382",
-  "sig": "SySLfaq6Iu66AsXsD3RL_bz5XeYTDzl45K1vxKCHrVLpUvza_jXWYuwn1iJKaRBjBPXJjI8oMR8lqU_t1-RMDg",
-  "notes": "Выгодные связки: без выдуманной цены продажи, прибыль только по реальной цене Kaspi",
+  "version": "0.9.83",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.83.zip",
+  "sha256": "ce82e95f2a21d9c43fdf2620c3959967785e7560e326064b2f50c5bf44c16621",
+  "sig": "6ioORsiq42wHiKhHVVej1tp2ZP0usULFc86d4UOXAGju2TDmWl5qY7TMOz55Hiz_Tz5Ds7xrdfZgqOkn37hAAA",
+  "notes": "Категории Ozon в арбитраже, страницы по 40 товаров, компактные карточки",
   "blocked": []
 }
