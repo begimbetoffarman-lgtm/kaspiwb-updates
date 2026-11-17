@@ -1,8 +1,8 @@
 {
-  "version": "0.9.84",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.84.zip",
-  "sha256": "6db26bc10dce8b6d421ae9c674be5e305f6250b5812c299337303a5e80444320",
-  "sig": "KOKq3jrnruHTSNwib50aAoelH09xqRqQZhfffxx4Ddpzy-Jb0nzyQTQlwQTjB561DCoDbdWOLNGeBn1w1A6lCw",
-  "notes": "Точнее поиск карточки на Kaspi, без выдуманной прибыли, история пересчитывает цену, скрытие невыгодных связок",
+  "version": "0.9.85",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.85.zip",
+  "sha256": "fecae8c3adc75ce4446e0ea08c38398157322d30083860a64f738b562eec7976",
+  "sig": "bf88ixLIIMNzrvQ4a1swmorHb0oY5InxR74S3TW7lV2kuycXqmKrn7Z-ky8XMQB7tvHERSPz81_bzPdAQK89DQ",
+  "notes": "Предзаказ по ссылке Kaspi, меньше шума в интерфейсе, ночной режим, анимации, Ctrl+K",
   "blocked": []
 }
