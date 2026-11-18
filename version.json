@@ -1,8 +1,8 @@
 {
-  "version": "0.9.88",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.88.zip",
-  "sha256": "aaa524a563ba5ef1b4d39ec77e4348eb493377d11101586368ab529ef1d1a9bb",
-  "sig": "KBR4kR2G68PnW3VgdenUVWdtWfRH2FXTPga6-Riwz4ZXrM8iNAQzUNItCkSipJ3n0uSdqfDocgavtvz-STgHAQ",
-  "notes": "Почта Gmail: понятные ошибки при подключении, двухэтапная проверка в инструкции",
+  "version": "0.9.89",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.89.zip",
+  "sha256": "990be2d2801f2e5a969aea9f0c10528c4a98e5782369dfa2fe248917140125c9",
+  "sig": "XE35usMwGKJno5XhSrDQYvJv0de-gi2mvI9I9UDwDMxgCaBbn3mUVpZtSJIjrcAM5e1vw5ZKHw_11tz4U0KsAg",
+  "notes": "Автоввод кода Kaspi повторяет подключение к почте после временного сбоя IMAP.",
   "blocked": []
 }
