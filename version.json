@@ -1,8 +1,8 @@
 {
-  "version": "0.9.87",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.87.zip",
-  "sha256": "4fa1a402b7020e886285d1e873256858433d6b0d9c9bcd73a5475f4a1e1818a3",
-  "sig": "AtfP53Ga3CMci23b26AzV-im17VMSV3WU0eZqgUUbirxK-6IS19OIk3yvJUzFZIII3Spu8Kg56FhkZKy2WgxAA",
-  "notes": "Улучшение карточки Kaspi: фото и описание с WB, заявка в Kaspi с подтверждением",
+  "version": "0.9.88",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.88.zip",
+  "sha256": "aaa524a563ba5ef1b4d39ec77e4348eb493377d11101586368ab529ef1d1a9bb",
+  "sig": "KBR4kR2G68PnW3VgdenUVWdtWfRH2FXTPga6-Riwz4ZXrM8iNAQzUNItCkSipJ3n0uSdqfDocgavtvz-STgHAQ",
+  "notes": "Почта Gmail: понятные ошибки при подключении, двухэтапная проверка в инструкции",
   "blocked": []
 }
