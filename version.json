@@ -1,8 +1,9 @@
 {
-  "version": "0.9.89",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.89.zip",
-  "sha256": "990be2d2801f2e5a969aea9f0c10528c4a98e5782369dfa2fe248917140125c9",
-  "sig": "XE35usMwGKJno5XhSrDQYvJv0de-gi2mvI9I9UDwDMxgCaBbn3mUVpZtSJIjrcAM5e1vw5ZKHw_11tz4U0KsAg",
-  "notes": "Автоввод кода Kaspi повторяет подключение к почте после временного сбоя IMAP.",
+  "version": "0.9.90",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.90.zip",
+  "sha256": "3085867c251232dbb5703a80bce32993f7d567d28fd6815e84e96681e35f5ff9",
+  "sig": "jqQweTavNMz1jOzlgCRaCvNIVxceCeL4JJoSO-3l5PTUh4k0fH_dcek-u8wCA_Tfr3cdQ8CcudcwPoaKgef_Ag",
+  "sig2": "h4aZMzABG8MptAb5C4ON1x4NE-v9eLZtqca2fh-Z7n4P3S6aMFX4-ff69AG6J1iz5ZeyizbhgNK8Aua8ZNWbAA",
+  "notes": "Исправлена чистая прибыль на главной и расчёт прибыли в выгрузке Kaspi Pay (учтена доставка), честный лимит и ошибки в AI-студии, включена проверка сертификатов, защита от подстановки HTML и формул, узкие окна.",
   "blocked": []
 }
