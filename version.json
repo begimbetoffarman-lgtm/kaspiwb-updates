@@ -1,9 +1,9 @@
 {
-  "version": "0.9.90",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.90.zip",
-  "sha256": "3085867c251232dbb5703a80bce32993f7d567d28fd6815e84e96681e35f5ff9",
-  "sig": "jqQweTavNMz1jOzlgCRaCvNIVxceCeL4JJoSO-3l5PTUh4k0fH_dcek-u8wCA_Tfr3cdQ8CcudcwPoaKgef_Ag",
-  "sig2": "h4aZMzABG8MptAb5C4ON1x4NE-v9eLZtqca2fh-Z7n4P3S6aMFX4-ff69AG6J1iz5ZeyizbhgNK8Aua8ZNWbAA",
-  "notes": "Исправлена чистая прибыль на главной и расчёт прибыли в выгрузке Kaspi Pay (учтена доставка), честный лимит и ошибки в AI-студии, включена проверка сертификатов, защита от подстановки HTML и формул, узкие окна.",
+  "version": "0.9.91",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.91.zip",
+  "sha256": "50a16b88adca573ed74c1acf6b19453f48eb9382c82020034a04b73c848af1c0",
+  "sig": "1GryxMfe5mM_i2oaWR-JlWTnUHyFno6yrYDxTJuHiBlOqoViAaDP4GqGuv8oKhv2V5-NBGMkXZjw_S9AnM5uCg",
+  "sig2": "mvE8rr5iFfWIgeFo98iRCac-QoRr-BP6YNf4YaSFFHoRcyI3JKomj-65DZy4tMRotTeYA53H-N2ZWQrdU3mqAg",
+  "notes": "Обновлённая главная: цветные плитки, график-линия с подсказкой, шапка с прибылью, пружинные кнопки. Раздел «Аналитика» скрыт.",
   "blocked": []
 }
