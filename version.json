@@ -1,9 +1,9 @@
 {
-  "version": "0.9.91",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.91.zip",
-  "sha256": "50a16b88adca573ed74c1acf6b19453f48eb9382c82020034a04b73c848af1c0",
-  "sig": "1GryxMfe5mM_i2oaWR-JlWTnUHyFno6yrYDxTJuHiBlOqoViAaDP4GqGuv8oKhv2V5-NBGMkXZjw_S9AnM5uCg",
-  "sig2": "mvE8rr5iFfWIgeFo98iRCac-QoRr-BP6YNf4YaSFFHoRcyI3JKomj-65DZy4tMRotTeYA53H-N2ZWQrdU3mqAg",
-  "notes": "Обновлённая главная: цветные плитки, график-линия с подсказкой, шапка с прибылью, пружинные кнопки. Раздел «Аналитика» скрыт.",
+  "version": "0.9.92",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.92.zip",
+  "sha256": "8f536f12f6e2fd3c7207536f9caf60c7048020fb971f5bda2772f274b0d0660a",
+  "sig": "99UPc0xpmF3YqANH0rO1C0HPZntY_mZadGp_q5V1fRRGNHQidtQANVsXXvdznBFsQSJzoavuR602FxK3hDEvCA",
+  "sig2": "OIBHnX4X3OCM4Xb8L4U6VamlU-GEkVmVHVhp4yEP74AmM-witrGbshPAksz5hPS2-6ElQt9-XVJvJHJkkTV-Ag",
+  "notes": "Карточки Kaspi: точнее подбор категории и заполнение характеристик из WB (материал, цвет, количество), исправлена ошибка выбора категории. Новая главная и анимация кнопок. Раздел «Аналитика» скрыт.",
   "blocked": []
 }
