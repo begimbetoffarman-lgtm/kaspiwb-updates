@@ -1,9 +1,9 @@
 {
-  "version": "0.9.92",
-  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.92.zip",
-  "sha256": "8f536f12f6e2fd3c7207536f9caf60c7048020fb971f5bda2772f274b0d0660a",
-  "sig": "99UPc0xpmF3YqANH0rO1C0HPZntY_mZadGp_q5V1fRRGNHQidtQANVsXXvdznBFsQSJzoavuR602FxK3hDEvCA",
-  "sig2": "OIBHnX4X3OCM4Xb8L4U6VamlU-GEkVmVHVhp4yEP74AmM-witrGbshPAksz5hPS2-6ElQt9-XVJvJHJkkTV-Ag",
-  "notes": "Карточки Kaspi: точнее подбор категории и заполнение характеристик из WB (материал, цвет, количество), исправлена ошибка выбора категории. Новая главная и анимация кнопок. Раздел «Аналитика» скрыт.",
+  "version": "0.9.93",
+  "url": "https://raw.githubusercontent.com/begimbetoffarman-lgtm/kaspiwb-updates/main/update-0.9.93.zip",
+  "sha256": "f4796a4a81ee73cca4f99553813f3875460a6132ee345ded04a15beefcb58c54",
+  "sig": "CN8tvfdFDVK0S1hQr3KF-d1uHN2uW5dQfQWE8krMtn0EL3rUJWrFUXWPhQE1ySbGefhKrMaZqwbiHQ8jBf_QDQ",
+  "sig2": "qlEL1nyB2gIK-n_Ul7bnY7rFGgmxJFZPgclo5FuXmDDMZv4AsiJJlIu8-QhnFwRJkH6D441U97nIBnxtHJKJBg",
+  "notes": "Карточки Kaspi из WB: нейтральные артикулы вместо WB..., в код производителя не попадает код продавца WB, точнее подбор категории (одиночные товары не уходят в «Наборы»), автозаполнение характеристик и запоминание ваших выборов. Новая главная и анимация кнопок.",
   "blocked": []
 }
